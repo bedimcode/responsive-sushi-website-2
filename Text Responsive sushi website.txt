@@ -1,0 +1,140 @@
+========== HEADER & NAV ==========
+✅.nav__logo
+Sushi
+
+✅.nav__link
+Home - About Us - Menu - Special - Contact
+
+
+========== SECTION HOME ==========
+✅.home__title
+Enjoy Delicious <br> The <span>Japanese Foods
+
+✅.home__description
+We serve the finest Japanese cuisine. Prepared with carefully selected natural ingredients by a professional chef, guaranteeing a high-quality flavor. We hope you enjoy your meal.
+
+✅.button
+Order Now
+
+✅.home__text
+美 <br> 味
+
+
+========== SECTION ABOUT ==========
+✅.section__title
+About Us / 私たちについて
+
+✅.section__title
+We Serve You The <br> Authentic <span>Japanese Flavor</span>
+
+✅.about__description
+We have been operating for ten years to continue serving Japanese food, with authentic flavors that we will continue to naturalize for you.
+
+✅.button
+Special Menu
+
+.about__text
+日本
+
+
+========== SECTION MENU ==========
+✅.section__title
+Our Menu
+
+✅.menu__text-1
+寿 <br> 司
+
+✅.menu__text-2
+拉 <br> 麺
+
+✅.menu__button
+Sushi - Nigiri - Ramen - Udon - Others
+
+✅.menu__name
+🔹Menu cards 1
+Maki - Maki Salmon - Ikura
+
+🔹Menu cards 2
+Tako Nigiri - Amaebi Nigiri - Sake Nigiri
+
+🔹Menu cards 3
+Soja Ramen - Tonkotsu Ramen - Shoyu Ramen 
+
+🔹Menu cards 4
+Nabemono Udon - Yaki Udon - kitsune Udon
+
+🔹Menu cards 5
+Dumpling - Onigiri - Sukiyaki
+
+✅.menu__price
+$8.99
+
+✅.menu__stock
+10 available
+
+========== SECTION NEW ==========
+✅.section__subtitle
+Newly Added / 新しく追加された
+
+✅.section__title
+Our Special Dish <br> <span>Sashimi Oishi<span>
+
+✅.new__description
+We serve the best and freshest seafood eaten raw with soy sauce, grated ginger and wasabi, combining the authentic flavor of the Japanese for your palate.
+
+✅.new__text-1
+日本
+
+✅.new__text-2
+刺身料理
+
+
+========== SECTION CONTACT ==========
+✅.section__title
+Contact Us And Order <br> The Best Sushi
+
+✅.contact__text-1
+日 <br> 本
+
+✅.contact__text-2
+接 <br> 触
+
+✅.contact__title
+Messages:
+
+✅.contact__social
+https://m.me/bedimcode
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+mailto:medical@email.com
+
+✅.contact__title ✅.contact__address
+Location:
+Lima - Peru <br> Av. The Trees #0123
+
+Phone:
++0123(00)-765-4321 <br> +00-0123456
+
+Attention:
+Monday - Friday <br> 8am - 6pm
+
+✅.contact__description
+Subscribe to the newsletter
+
+✅.contact__input placeholder
+Enter your email address
+
+✅.contact__button
+Subscribe
+
+
+========== FOOTER ==========
+✅.footer__logo
+Sushi
+
+✅.footer__social
+https://www.facebook.com/bedimcode
+https://www.instagram.com/bedimcode/
+https://twitter.com/
+
+✅.footer__copy
+&#169; All Rights Reserved By Bedimcode
